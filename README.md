@@ -1,0 +1,2 @@
+# Lunobot
+Luno trading bot
